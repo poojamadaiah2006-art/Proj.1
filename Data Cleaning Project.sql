@@ -1,4 +1,4 @@
--- Data cleaning
+-- Data cleanin
 
 select *
 from layoffs;
